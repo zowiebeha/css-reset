@@ -27,3 +27,7 @@ body {
   /* override `inherit` default on the body to encourage EM unit scaling independent of REM units.  */
   font-size: 16px;
 }
+
+pre {
+  font-family: inherit;
+}
